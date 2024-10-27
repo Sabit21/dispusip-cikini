@@ -1,0 +1,23 @@
+241022 22:10:40 [Note] Plugin 'FEDERATED' is disabled.
+241022 22:10:40 [Note] Plugin 'InnoDB' is disabled.
+241022 22:10:41 [Note] Event Scheduler: Loaded 0 events
+241022 22:10:41 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+241022 22:10:41 [ERROR] mysqld: Got error 10038 from select
+241022 22:13:02 [Note] Plugin 'FEDERATED' is disabled.
+241022 22:13:02 [Note] Plugin 'InnoDB' is disabled.
+241022 22:13:11 [Note] Plugin 'FEDERATED' is disabled.
+241022 22:13:11 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+241022 22:13:11 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+241022 22:13:11 [ERROR] Aborting
+
+241022 22:13:11 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+241023  0:35:17 [Note] Plugin 'FEDERATED' is disabled.
+241023  0:35:17 [Note] Plugin 'InnoDB' is disabled.
+241023  0:35:17 [Note] Event Scheduler: Loaded 0 events
+241023  0:35:17 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+241023  0:35:56 [Note] Plugin 'FEDERATED' is disabled.
+241023  0:35:56 [Note] Plugin 'InnoDB' is disabled.
